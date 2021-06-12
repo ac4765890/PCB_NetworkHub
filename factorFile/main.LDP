@@ -1,0 +1,6 @@
+Layer Pairs Export File for PCB: C:\Data\Work\Altium\USB_HUB\usbNetworkHub\main.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=main-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=main-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Power_Blind_Vias|DrillFile=main-roundholes.tx1|DrillLayers=gtl,gp1,gp2
+LayersSetName=GND_Bot_Blind_Vias|DrillFile=main-roundholes.tx2|DrillLayers=gp1,gp2,gbl
+LayersSetName=Power_Bot_Blind_Vias|DrillFile=main-roundholes.tx3|DrillLayers=gp2,gbl
